@@ -14,7 +14,7 @@ Criando soluções digitais seguras, performáticas e escaláveis.
 
 ## Sobre Mim
 
-| ![Minha Foto](assets/me.png) | Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
+| ![Minha Foto](assets/me02.png) | Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
 Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
 
 - **Atualmente estudando:** DevOps e Integração Contínua  
