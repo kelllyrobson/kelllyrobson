@@ -1,6 +1,6 @@
 # Olá, eu sou Kelly
 
-**Desenvolvedora Full Stack**  
+Desenvolvedora Full Stack  
 Criando soluções digitais seguras, performáticas e escaláveis.
 
 ---
@@ -14,17 +14,17 @@ Criando soluções digitais seguras, performáticas e escaláveis.
 
 ## Sobre Mim
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 
-  <img src="assets/eu.png" alt="Minha Foto" width="320px" style="border-radius: 15px;"/>
+  <img src="assets/eu.png" alt="Minha Foto" width="360px" style="border-radius: 12px;"/>
 
   <div>
-    Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
+    Sou formada em Cibersegurança e trabalho como desenvolvedora full stack.  
     Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
 
-    - **Atualmente estudando:** DevOps e Integração Contínua  
-    - **Áreas de interesse:** Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
-    - **Curiosidade:** Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest)  
+    - Atualmente estudando: DevOps e Integração Contínua  
+    - Áreas de interesse: Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
+    - Curiosidade: Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest)  
   </div>
 
 </div>
@@ -70,6 +70,6 @@ Confira mais projetos no [meu portfólio](https://kellycodes-create.vercel.app/)
 
 Estou sempre aberta a colaborar em projetos de tecnologia, segurança e desenvolvimento web.  
 
-**Email:** kellyalvesrobson@gmail.com  
-**LinkedIn:** [linkedin.com/in/kelllyrobson](https://www.linkedin.com/in/kelllyrobson/)  
-**Portfólio:** [kellycodes-create.vercel.app](https://kellycodes-create.vercel.app/)
+Email: kellyalvesrobson@gmail.com  
+LinkedIn: [linkedin.com/in/kelllyrobson](https://www.linkedin.com/in/kelllyrobson/)  
+Portfólio: [kellycodes-create.vercel.app](https://kellycodes-create.vercel.app/)
