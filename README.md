@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/eu.png" alt="Minha Foto" width="350px" height="350px" style="border-radius: 20px; object-fit: cover;" />
+      <img src="assets/eu.png" alt="Minha Foto" width="900px" height="900px" style="border-radius: 80px; object-fit: cover;" />
     </td>
     <td>
       <h3>Sobre mim</h3>
