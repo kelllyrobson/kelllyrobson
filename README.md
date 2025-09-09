@@ -14,13 +14,20 @@ Criando soluções digitais seguras, performáticas e escaláveis.
 
 ## Sobre Mim
 
-| ![Minha Foto](assets/eu.png) | Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
-Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-- **Atualmente estudando:** DevOps e Integração Contínua  
-- **Áreas de interesse:** Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
-- **Curiosidade:** Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest) |
-|---|---|
+  <img src="assets/eu.png" alt="Minha Foto" width="320px" style="border-radius: 15px;"/>
+
+  <div>
+    Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
+    Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
+
+    - **Atualmente estudando:** DevOps e Integração Contínua  
+    - **Áreas de interesse:** Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
+    - **Curiosidade:** Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest)  
+  </div>
+
+</div>
 
 ---
 
