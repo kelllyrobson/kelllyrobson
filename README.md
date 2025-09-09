@@ -13,13 +13,14 @@ Criando soluções digitais seguras, performáticas e escaláveis.
 ---
 
 ## Sobre Mim
-Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
-Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
-Tenho interesse em **boas práticas de segurança**, arquitetura de software e automação de processos.
 
-- Atualmente estudando: DevOps e Integração Contínua  
-- Áreas de interesse: Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
-- Curiosidade: Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest)  
+| ![Minha Foto](assets/me.png) | Sou formada em **Cibersegurança** e trabalho como **desenvolvedora full stack**.  
+Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
+
+- **Atualmente estudando:** DevOps e Integração Contínua  
+- **Áreas de interesse:** Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
+- **Curiosidade:** Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest) |
+|---|---|
 
 ---
 
@@ -65,4 +66,3 @@ Estou sempre aberta a colaborar em projetos de tecnologia, segurança e desenvol
 **Email:** kellyalvesrobson@gmail.com  
 **LinkedIn:** [linkedin.com/in/kelllyrobson](https://www.linkedin.com/in/kelllyrobson/)  
 **Portfólio:** [kellycodes-create.vercel.app](https://kellycodes-create.vercel.app/)
-
