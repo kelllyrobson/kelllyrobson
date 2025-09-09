@@ -1,60 +1,50 @@
-# Olá, eu sou Kelly
+<table>
+  <tr>
+    <td>
+      <img src="assets/eu.png" alt="Minha Foto" width="350px" height="350px" style="border-radius: 20px; object-fit: cover;" />
+    </td>
+    <td>
+      <h3>Sobre mim</h3>
+      Olá! Sou <strong>Kelly Alves Robson</strong>, desenvolvedora Full Stack e formada em Cibersegurança.<br>
+      Construo soluções digitais completas — do backend seguro ao frontend otimizado — com foco em performance e escalabilidade.<br>
+      Atualmente estudando <strong>DevOps e Integração Contínua</strong>.<br>
+      Áreas de interesse: <strong>Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance</strong>.<br>
+      💡 Curiosidade: Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest).<br>
+      <strong>Fique à vontade para explorar meus projetos, conectar-se ou colaborar!</strong>
+    </td>
+  </tr>
+</table>
 
-Desenvolvedora Full Stack  
-Criando soluções digitais seguras, performáticas e escaláveis.
+<hr/>
 
----
+### 🌟 Habilidades Técnicas
 
-### Onde me encontrar
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kellycodes-create.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelllyrobson/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelllyrobson)
-
----
-
-## Sobre Mim
-
-<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
-
-  <img src="assets/eu.png" alt="Minha Foto" width="360px" style="border-radius: 12px;"/>
-
-  <div>
-    Sou formada em Cibersegurança e trabalho como desenvolvedora full stack.  
-    Gosto de construir aplicações completas, desde o backend seguro até o frontend funcional e otimizado.  
-
-    - Atualmente estudando: DevOps e Integração Contínua  
-    - Áreas de interesse: Segurança da Informação, Desenvolvimento Backend, APIs REST e Otimização de Performance  
-    - Curiosidade: Gosto de resolver desafios de segurança e explorar vulnerabilidades de forma ética (pentest)  
-  </div>
-
+<div align="center">
+  <!-- Backend & Segurança -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" height="40" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=white" height="40" />
+  <br>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="40" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
+  <br>
+  <!-- Ferramentas e DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="40" />
 </div>
 
----
+<hr/>
 
-## Habilidades Técnicas
+### 🚀 Projetos Destacados
 
-**Backend e Segurança**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Cibersegurança](https://img.shields.io/badge/Cybersecurity-000000?style=flat&logo=hackthebox&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Ferramentas e DevOps**  
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-## Projetos Destacados
+<div align="center">
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
@@ -62,14 +52,20 @@ Criando soluções digitais seguras, performáticas e escaláveis.
 | API REST Segura | API com autenticação JWT e proteção contra ataques comuns | Node.js, Express, PostgreSQL |
 | Task Manager | Aplicativo de gerenciamento de tarefas com autenticação e backend seguro | React, Node.js, SQLite |
 
-Confira mais projetos no [meu portfólio](https://kellycodes-create.vercel.app/) ou aqui no GitHub.
+</div>
 
----
+<hr/>
 
-## Contato
+### 🌐 Conecte-se comigo
 
-Estou sempre aberta a colaborar em projetos de tecnologia, segurança e desenvolvimento web.  
-
-Email: kellyalvesrobson@gmail.com  
-LinkedIn: [linkedin.com/in/kelllyrobson](https://www.linkedin.com/in/kelllyrobson/)  
-Portfólio: [kellycodes-create.vercel.app](https://kellycodes-create.vercel.app/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/kelllyrobson/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kelllyrobson" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://kellycodes-create.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
